@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="btn_guardar">Desar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="nombre">Introdueixi el nom de la tasca</string>
+    <string name="ubicacion">Introdueixi ubicació</string>
+    <string name="horadesde">Introdueixi hora d\'inici</string>
+    <string name="horahasta">Introdueixi hora de finalització</string>
+    <string name="descripción">Introdueixi descripció</string>
+    <string name="desde">Des de</string>
+    <string name="hasta">Fins a</string>
+    <string name="indicación">Toqui un dia per veure la seva informació...</string>
+</resources>

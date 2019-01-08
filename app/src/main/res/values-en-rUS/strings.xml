@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="btn_guardar">Save</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="nombre">Type the event name</string>
+    <string name="ubicacion">Type the event location</string>
+    <string name="horadesde">Type the starting time</string>
+    <string name="horahasta">Type the finishing time</string>
+    <string name="descripción">Type the description</string>
+    <string name="desde">From</string>
+    <string name="hasta">Till</string>
+    <string name="indicación">Touch a day in order to see the events...</string>
+</resources>
